@@ -50,7 +50,7 @@ features standardised with `StandardScaler`, target integer-encoded,
 
 ## 3. GitHub Repository Link
 
-https://github.com/amitdeswal26-hub/delhi-aqi-classifier.git
+https://github.com/amitdeswal26-hub/delhi-aqi-classifier
 
 ---
 
