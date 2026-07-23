@@ -3,7 +3,7 @@
 BITS Pilani WILP | M.Tech (AI/ML) | Machine Learning Assignment
 
 **GitHub Repository:** https://github.com/amitdeswal26-hub/delhi-aqi-classifier.git
-**Live Streamlit App:** _[paste app link here]_
+**Live Streamlit App:** https://delhi-aqi-classifier-bits.streamlit.app
 
 ---
 
